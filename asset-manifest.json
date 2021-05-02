@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/whatsappclone/static/css/main.47366a8b.chunk.css",
+    "main.js": "/whatsappclone/static/js/main.5e01c768.chunk.js",
+    "main.js.map": "/whatsappclone/static/js/main.5e01c768.chunk.js.map",
+    "runtime-main.js": "/whatsappclone/static/js/runtime-main.f97c75d4.js",
+    "runtime-main.js.map": "/whatsappclone/static/js/runtime-main.f97c75d4.js.map",
+    "static/js/2.2c39efa0.chunk.js": "/whatsappclone/static/js/2.2c39efa0.chunk.js",
+    "static/js/2.2c39efa0.chunk.js.map": "/whatsappclone/static/js/2.2c39efa0.chunk.js.map",
+    "static/js/3.baa199dd.chunk.js": "/whatsappclone/static/js/3.baa199dd.chunk.js",
+    "static/js/3.baa199dd.chunk.js.map": "/whatsappclone/static/js/3.baa199dd.chunk.js.map",
+    "index.html": "/whatsappclone/index.html",
+    "static/css/main.47366a8b.chunk.css.map": "/whatsappclone/static/css/main.47366a8b.chunk.css.map",
+    "static/js/2.2c39efa0.chunk.js.LICENSE.txt": "/whatsappclone/static/js/2.2c39efa0.chunk.js.LICENSE.txt",
+    "static/media/Chat.css": "/whatsappclone/static/media/background.f4b196f1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f97c75d4.js",
+    "static/js/2.2c39efa0.chunk.js",
+    "static/css/main.47366a8b.chunk.css",
+    "static/js/main.5e01c768.chunk.js"
+  ]
+}
